@@ -1,16 +1,11 @@
-# music_player
+# TuneTrail - Music Player App
 
-A new Flutter project.
+TuneTrail is a music player app that allows users to search for albums, view a list of songs, and play their favorite music. The app fetches song data from Firebase Firestore and uses the `provider` package for state management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Search and filter songs by name.
+- Display a grid of albums with artwork.
+- Play, pause, and stop music tracks.
+- Manage the current song and show "Now Playing" at the bottom.
+- Firebase integration for storing and fetching song data.
