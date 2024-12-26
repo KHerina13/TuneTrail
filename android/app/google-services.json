@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554503635542",
+    "project_id": "tunetrail-da067",
+    "storage_bucket": "tunetrail-da067.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554503635542:android:136b95753978a6655bb1f7",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIoyw7_SKXUf4VBImx2v1vsmFDkdqUVEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
